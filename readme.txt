@@ -10,3 +10,5 @@ code：源代码以及音频素材
 support：里面包含所用到的python库信息
 markdown：report的markdown版
 
+
+注：report中第一题的答案是错的。

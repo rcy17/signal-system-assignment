@@ -13,3 +13,7 @@
 1. code：源代码以及音频素材
 2. support：里面包含一个requirements.txt列出所用到的python库
 3. markdown：包括report的markdown版及图片
+
+
+
+**注：report中第一题的答案是错的。**
